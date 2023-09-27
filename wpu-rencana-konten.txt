@@ -3,10 +3,11 @@ rencana konten baru
 - javascript
   * ed6
   *framework js
-  angular
-  react
+   viu js
+   react
 - struktur data dasar
   * laravel
 - php framework
 - interview
 - vlog
+- phyton
