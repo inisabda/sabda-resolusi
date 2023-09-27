@@ -6,6 +6,7 @@ rencana konten baru
    viu js
    react
 - struktur data dasar
+  * laravel
 - php framework
 - interview
 - vlog
