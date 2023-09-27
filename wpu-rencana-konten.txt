@@ -4,6 +4,7 @@ rencana konten baru
   * ed6
   *framework js
    viu js
+   react
 - struktur data dasar
 - php framework
 - interview
